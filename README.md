@@ -48,3 +48,4 @@ If you wish to install everything required for setting up Pangea Poker, you can 
 ### [CHIPS & LN Upgrade](./docs/protocol/upgrade.md)
 
 ### [Glossary](./docs/protocol/glossary.md) 
+
